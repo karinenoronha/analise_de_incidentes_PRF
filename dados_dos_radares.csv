@@ -1,0 +1,723 @@
+concessionaria;ano_do_pnv_snv;tipo_de_radar;rodovia;uf;km_m;municipio;tipo_pista;sentido;situacao;data_da_inativacao;latitude;longitude;velocidade_leve;velocidade_pesado
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;483,850;Betim;Principal;Crescente;Ativo;;-19,959486;-44,085386;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;493,290;Betim;Principal;Crescente;Ativo;;-19,964349;-44,171924;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;525,350;Brumadinho;Principal;Crescente;Ativo;;-20,146664;-44,323897;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;528,350;Brumadinho;Principal;Decrescente;Ativo;;-20,167194;-44,334434;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;568,890;Itaguara;Principal;Decrescente;Ativo;;-20,410679;-44,526628;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;618,360;Oliveira;Principal;Decrescente;Ativo;;-20,740356;-44,771520;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;643,224;Santo Antônio do Amparo;Principal;Crescente;Ativo;;-20,921689;-44,871470;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;653,740;Santo Antônio do Amparo;Principal;Crescente;Ativo;;-20,921689;-44,871470;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;712,760;Carmo da Cachoeira;Principal;Decrescente;Ativo;;-21,372782;-45,190037;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;886,250;Estiva;Principal;Decrescente;Ativo;;-22,510753;-46,018149;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;907,720;Cambuí;Principal;Decrescente;Ativo;;-22,676048;-46,098030;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;920,800;Camanducaia;Principal;Crescente;Ativo;;-22,760561;-46,167674;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;MG;923,380;Camanducaia;Principal;Crescente;Ativo;;-22,774380;-46,185834;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;SP;59,795;Mairiporã;Principal;Crescente;Ativo;;-23,289138;-46,587920;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;SP;70,200;Mairiporã;Principal;Decrescente;Ativo;;-23,349188;-46,556532;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;SP;73,060;São Paulo;Principal;Decrescente;Ativo;;-23,368741;-46,554044;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;SP;75,650;São Paulo;Principal;Crescente;Ativo;;-23,384708;-46,564716;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;SP;76,400;São Paulo;Principal;Decrescente;Ativo;;-23,387687;-46,569328;80;60
+AUTOPISTA FERNÃO DIAS;2007;Controlador;BR-381;SP;78,200;São Paulo;Principal;Crescente;Ativo;;-23,401335;-46,575964;80;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;58,805;Campos dos Goytacazes;Principal;Decrescente;Ativo;;-21,713412;-41,308561;60;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;55,389;Campos dos Goytacazes;Principal;Crescente;Ativo;;-21,681822;-41,310949;60;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;55,520;Campos dos Goytacazes;Principal;Decrescente;Ativo;;-21,683290;-41,310890;60;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;184,600;Casimiro de Abreu;Principal;Crescente;Ativo;;-22,429729;-42,031134;80;80
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;282,560;Itaboraí;Principal;Crescente;Ativo;;-22,735698;-42,801862;60;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;283,310;Itaboraí;Principal;Decrescente;Ativo;;-22,738801;-42,806988;60;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;293,500;Itaboraí;Principal;Crescente;Ativo;;-22,755539;-42,888149;60;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;293,700;Itaboraí;Principal;Decrescente;Ativo;;-22,755202;-42,890633;60;60
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;298,300;Itaboraí;Principal;Crescente;Ativo;;-22,772149;-42,933291;100;80
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;298,650;Itaboraí;Principal;Decrescente;Ativo;;-22,773498;-42,935548;100;80
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;313,000;São Gonçalo;Principal;Decrescente;Ativo;;-22,809907;-43,068761;100;80
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;314,400;São Gonçalo;Principal;Crescente;Ativo;;-22,817695;-43,079165;100;80
+AUTOPISTA FLUMINENSE;2019;Controlador;BR-101;RJ;316,400;São Gonçalo;Principal;Crescente;Ativo;;-22,830783;-43,093638;100;80
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-376;PR;664,773;Guaratuba;Principal;Crescente;Ativo;;-25,858200;-48,951200;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-376;PR;667,013;Guaratuba;Principal;Crescente;Ativo;;-25,863700;-48,934800;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-376;PR;668,334;Guaratuba;Principal;Crescente;Ativo;;-25,869300;-48,934100;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-376;PR;668,880;Guaratuba;Principal;Decrescente;Ativo;;-25,874900;-48,936300;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;48,770;Joinville;Principal;Crescente;Ativo;;-26,380200;-48,851600;80;80
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;50,510;Joinville;Principal;Decrescente;Ativo;;-26,390350;-48,839967;80;80
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;140,480;Balneário Camboriú;Principal;Decrescente;Ativo;;-27,042947;-48,599675;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;114,800;Itajaí;Marginal;Crescente;Ativo;;-26,869883;-48,729797;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;114,900;Itajaí;Marginal;Decrescente;Ativo;;-26,883453;-48,724089;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;116,500;Itajaí;Marginal;Decrescente;Ativo;;-27,511425;-48,642764;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;196,050;Biguaçu;Marginal;Crescente;Ativo;;-27,512006;-48,642081;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;196,150;Biguaçu;Marginal;Decrescente;Ativo;;-27,532914;-48,630986;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;198,800;São José;Marginal;Crescente;Ativo;;-27,558233;-48,618350;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;203,850;São José;Marginal;Crescente;Ativo;;-27,572569;-48,613778;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;204,250;São José;Marginal;Decrescente;Ativo;;-27,576306;-48,613381;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;204,750;São José;Marginal;Crescente;Ativo;;-27,580361;-48,614436;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;204,770;São José;Marginal;Decrescente;Ativo;;-27,580619;-48,614444;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;209,150;São José;Marginal;Crescente;Ativo;;-27,610039;-48,638892;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;209,900;São José;Marginal;Decrescente;Ativo;;-27,616022;-48,644975;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;210,700;São José;Marginal;Decrescente;Ativo;;-27,621294;-48,650333;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;212,300;Palhoça;Marginal;Crescente;Ativo;;-27,632003;-48,661075;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;212,350;Palhoça;Marginal;Decrescente;Ativo;;-27,632314;-48,661422;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;213,290;Palhoça;Marginal;Crescente;Ativo;;-27,639242;-48,666750;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;213,660;Palhoça;Marginal;Crescente;Ativo;;-27,642081;-48,668847;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;213,850;Palhoça;Marginal;Decrescente;Ativo;;-27,643475;-48,669875;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;215,050;Palhoça;Marginal;Crescente;Ativo;;-27,651111;-48,675542;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;147,400;Itapema;Marginal;Crescente;Ativo;;-27,095852;-48,618677;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;147,450;Itapema;Marginal;Decrescente;Ativo;;-27,096244;-48,618310;40;40
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;202,750;São José;Marginal;Crescente;Ativo;;-27,563206;-48,615763;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;208,053;São José;Marginal;Decrescente;Ativo;;-27,603294;-48,631939;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-376;PR;665,270;Guaratuba;Principal;Crescente;Ativo;;-25,861556;-48,950722;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;141,460;Balneário Camboriú;Principal;Crescente;Ativo;;-27,051844;-48,600036;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;175,260;Biguaçu;Principal;Decrescente;Ativo;;-27,340886;-48,627872;80;80
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;233,565;Palhoça;Principal;Crescente;Ativo;;-27,807475;-48,638678;60;60
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-101;SC;233,750;Palhoça;Principal;Decrescente;Ativo;;-27,808489;-48,638497;60;60
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;652,690;Tijucas do Sul;Principal;Decrescente;Ativo;;-25,842214;-49,056146;80;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;656,000;Tijucas do Sul;Principal;Decrescente;Ativo;;-25,840020;-49,027230;80;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;657,000;Tijucas do Sul;Principal;Decrescente;Ativo;;-25,840074;-49,018358;80;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;664,074;Guaratuba;Principal;Decrescente;Ativo;;-25,853983;-48,957811;60;60
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;665,830;Guaratuba;Principal;Crescente;Ativo;;-25,865283;-48,949139;60;60
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;665,760;Guaratuba;Principal;Decrescente;Ativo;;-25,863714;-48,942796;60;60
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;667,010;Guaratuba;Principal;Decrescente;Ativo;;-25,860241;-48,937593;60;60
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-376;PR;671,000;Guaratuba;Principal;Crescente;Ativo;;-25,892288;-48,932440;80;60
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;190,800;Biguaçu;Principal;Crescente;Ativo;;-27,475534;-48,640839;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;191,480;Biguaçu;Principal;Decrescente;Ativo;;-27,480122;-48,644851;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;202,625;São José;Principal;Crescente;Ativo;;-27,562118;-48,616194;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;203,583;São José;Principal;Decrescente;Ativo;;-27,570346;-48,613682;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;205,150;São José;Principal;Crescente;Ativo;;-27,584371;-48,615787;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;206,700;São José;Principal;Decrescente;Ativo;;-27,597955;-48,620502;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;208,713;São José;Principal;Crescente;Ativo;;-27,608003;-48,637017;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;209,110;São José;Principal;Decrescente;Ativo;;-27,610782;-48,639453;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;210,750;São José;Principal;Crescente;Ativo;;-27,621765;-48,650873;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;212,790;Palhoça;Principal;Decrescente;Ativo;;-27,635501;-48,663834;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;213,750;Palhoça;Principal;Crescente;Ativo;;-27,642355;-48,669143;100;80
+AUTOPISTA LITORAL SUL;2009;Controlador;BR-101;SC;214,950;Palhoça;Principal;Decrescente;Ativo;;-27,651552;-48,675658;100;80
+AUTOPISTA LITORAL SUL;2009;Redutor;BR-376;PR;650,800;Tijucas do Sul;Principal;Decrescente;Ativo;;-25,845100;-49,072600;60;60
+AUTOPISTA PLANALTO SUL;2017;Redutor;BR-116;SC;308,420;Capão Alto;Principal;Crescente;Ativo;;-28,198181;-50,755152;60;60
+AUTOPISTA PLANALTO SUL;2017;Redutor;BR-116;SC;69,440;Monte Castelo;Principal;Decrescente;Ativo;;-26,464530;-50,229910;60;60
+AUTOPISTA PLANALTO SUL;2017;Redutor;BR-116;SC;105,280;Monte Castelo;Principal;Decrescente;Ativo;;-26,753120;-50,316920;60;60
+AUTOPISTA PLANALTO SUL;2017;Redutor;BR-116;SC;53,300;Papanduva;Principal;Crescente;Ativo;;-26,393600;-50,156470;60;60
+AUTOPISTA PLANALTO SUL;2017;Controlador;BR-116;SC;172,500;Ponte Alta do Norte;Principal;Crescente;Ativo;;-27,213530;-50,465490;80;80
+AUTOPISTA PLANALTO SUL;2017;Redutor;BR-116;PR;206,070;Rio Negro;Principal;Crescente;Ativo;;-26,074620;-49,755800;60;60
+AUTOPISTA PLANALTO SUL;2017;Controlador;BR-116;PR;206,900;Rio Negro;Principal;Decrescente;Ativo;;-26,075750;-49,762580;60;60
+AUTOPISTA PLANALTO SUL;2017;Controlador;BR-116;SC;117,320;Santa Cecília;Principal;Crescente;Ativo;;-26,817860;-50,351050;60;60
+AUTOPISTA PLANALTO SUL;2017;Controlador;BR-116;SC;173,150;São Cristóvão do Sul;Principal;Decrescente;Ativo;;-27,219030;-50,464130;80;80
+AUTOPISTA PLANALTO SUL;2017;Redutor;BR-116;SC;117,850;Santa Cecília;Principal;Decrescente;Ativo;;-26,820990;-50,354110;60;60
+AUTOPISTA PLANALTO SUL;2017;Controlador;BR-116;PR;120,598;Curitiba;Principal;Decrescente;Ativo;;-25,591550;-49,315240;80;80
+AUTOPISTA PLANALTO SUL;2017;Controlador;BR-116;PR;128,900;Fazenda Rio Grande;Principal;Crescente;Ativo;;-25,663200;-49,313730;80;80
+AUTOPISTA PLANALTO SUL;2017;Redutor;BR-116;PR;121,800;Curitiba;Principal;Crescente;Ativo;;-25,601000;-49,318000;80;80
+AUTOPISTA PLANALTO SUL;2017;Controlador;BR-116;PR;125,950;Fazenda Rio Grande;Principal;Decrescente;Ativo;;-25,639000;-49,313000;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;299,800;São Lourenço da Serra;Principal;Crescente;Ativo;;-23,793677;-46,915330;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;305,100;São Lourenço da Serra;Principal;Crescente;Ativo;;-23,837860;-46,930824;80;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;511,400;Cajati;Principal;Decrescente;Ativo;;-24,845450;-48,212248;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;514,700;Cajati;Principal;Decrescente;Ativo;;-24,864790;-48,211446;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;546,000;Barra do Turvo;Principal;Decrescente;Ativo;;-24,965893;-48,434310;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;548,370;Barra do Turvo;Principal;Crescente;Ativo;;-24,953740;-48,448019;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;550,700;Barra do Turvo;Principal;Decrescente;Ativo;;-24,967140;-48,471856;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;559,950;Barra do Turvo;Principal;Crescente;Ativo;;-25,015236;-48,509448;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;567,800;Barra do Turvo;Principal;Crescente;Ativo;;-25,056695;-48,555453;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;PR;28,800;Campina Grande do Sul;Principal;Decrescente;Ativo;;-25,110959;-48,808223;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;PR;33,600;Campina Grande do Sul;Principal;Decrescente;Ativo;;-25,114937;-48,849413;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;PR;40,050;Campina Grande do Sul;Principal;Crescente;Ativo;;-25,167022;-48,865032;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;351,780;Miracatu;Principal;Crescente;Ativo;;-24,064698;-47,233601;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;356,500;Miracatu;Principal;Crescente;Ativo;;-24,095474;-47,256386;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;357,500;Miracatu;Principal;Crescente;Ativo;;-24,102768;-47,258911;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;360,040;Miracatu;Principal;Crescente;Ativo;;-24,113081;-47,268627;60;60
+AUTOPISTA REGIS BITTENCOURT;2017;Controlador;BR-116;SP;361,520;Miracatu;Principal;Crescente;Ativo;;-24,121953;-47,270639;60;60
+CONCEBRA;2017;Controlador;BR-60;GO;15,250;Alexânia;Principal;Crescente/Decrescente;Ativo;;-16,109244;-48,363771;110;90
+CONCEBRA;2017;Controlador;BR-60;GO;15,250;Alexânia;Principal;Decrescente;Ativo;;-16,109244;-48,363771;110;90
+CONCEBRA;2017;Controlador;BR-60;DF;8,540;Brasília;Principal;Crescente;Ativo;;-15,904820;-48,136279;80;80
+CONCEBRA;2017;Controlador;BR-60;DF;10,050;Brasília;Principal;Decrescente;Ativo;;-15,909947;-48,150911;80;80
+CONCEBRA;2017;Redutor;BR-60;DF;12,300;Brasília;Principal;Decrescente;Ativo;;-15,919853;-48,165065;60;60
+CONCEBRA;2017;Redutor;BR-60;DF;12,300;Brasília;Principal;Crescente;Ativo;;-15,919547;-48,165260;60;60
+CONCEBRA;2017;Redutor;BR-60;DF;30,000;Brasília;Principal;Crescente;Ativo;;-16,042216;-48,256709;40;40
+CONCEBRA;2017;Redutor;BR-60;DF;30,000;Brasília;Principal;Decrescente;Ativo;;-16,042696;-48,256292;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;22,700;Alexânia;Principal;Crescente;Ativo;;-16,121198;-48,425263;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;22,800;Alexânia;Principal;Decrescente;Ativo;;-16,121311;-48,426290;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;79,150;Anápolis;Principal;Crescente;Ativo;;-16,300556;-48,812986;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;79,150;Anápolis;Principal;Decrescente;Ativo;;-16,300861;-48,812878;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;91,250;Anápolis;Principal;Crescente;Ativo;;-16,347739;-48,908274;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;91,330;Anápolis;Principal;Decrescente;Ativo;;-16,348402;-48,908756;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;101,200;Anápolis;Principal;Crescente;Ativo;;-16,402323;-48,976167;60;60
+CONCEBRA;2017;Redutor;BR-60;GO;101,800;Anápolis;Principal;Decrescente;Ativo;;-16,404887;-48,980615;60;60
+CONCEBRA;2017;Redutor;BR-60;GO;117,950;Terezópolis de Goiás;Principal;Crescente;Ativo;;-16,484090;-49,093074;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;118,000;Terezópolis de Goiás;Principal;Decrescente;Ativo;;-16,484798;-49,093366;40;40
+CONCEBRA;2017;Redutor;BR-60;GO;118,530;Terezópolis de Goiás;Principal;Crescente;Ativo;;-16,488047;-49,096859;40;40
+CONCEBRA;2017;Controlador;BR-60;GO;119,500;Terezópolis de Goiás;Principal;Crescente;Ativo;;-16,497203;-49,105881;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;122,800;Terezópolis de Goiás;Principal;Crescente;Ativo;;-16,516613;-49,122211;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;126,000;Goianápolis;Principal;Decrescente;Ativo;;-16,517995;-49,123703;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;125,350;Goianápolis;Principal;Decrescente;Ativo;;-16,529990;-49,141356;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;124,800;Goianápolis;Principal;Crescente;Ativo;;-16,528391;-49,137104;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;126,700;Goianápolis;Principal;Crescente;Ativo;;-16,537900;-49,149197;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;127,220;Goianápolis;Principal;Decrescente;Ativo;;-16,542807;-49,149747;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;128,100;Goianápolis;Principal;Decrescente;Ativo;;-16,553939;-49,152502;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;132,820;Goiânia;Principal;Crescente;Ativo;;-16,581266;-49,178608;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;133,360;Goiânia;Principal;Crescente;Ativo;;-16,581291;-49,183352;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;490,300;Goiânia;Principal;Decrescente;Ativo;;-16,623873;-49,205949;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;491,350;Goiânia;Principal;Crescente;Ativo;;-16,633810;-49,205209;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;492,800;Goiânia;Principal;Crescente;Ativo;;-16,643922;-49,209875;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;493,530;Goiânia;Principal;Crescente;Ativo;;-16,649784;-49,214499;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;494,300;Goiânia;Principal;Decrescente;Ativo;;-16,655472;-49,217977;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;495,000;Goiânia;Principal;Crescente;Ativo;;-16,661456;-49,221952;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;495,000;Goiânia;Principal;Decrescente;Ativo;;-16,661525;-49,221744;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;496,000;Goiânia;Principal;Decrescente;Ativo;;-16,668345;-49,226220;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;496,350;Goiânia;Principal;Crescente;Ativo;;-16,671186;-49,227960;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;498,000;Goiânia;Principal;Decrescente;Ativo;;-16,686646;-49,233367;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;500,000;Goiânia;Principal;Crescente;Ativo;;-16,702105;-49,231262;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;500,500;Goiânia;Principal;Crescente;Ativo;;-16,708477;-49,230962;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;500,780;Goiânia;Principal;Decrescente;Ativo;;-16,710668;-49,231336;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;501,950;Goiânia;Principal;Crescente;Ativo;;-16,718868;-49,238159;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;501,980;Goiânia;Principal;Decrescente;Ativo;;-16,718874;-49,237961;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;502,900;Goiânia;Principal;Crescente;Ativo;;-16,726534;-49,241244;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;503,090;Goiânia;Principal;Decrescente;Ativo;;-16,728332;-49,242036;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;504,000;Aparecida de Goiânia;Principal;Crescente;Ativo;;-16,736838;-49,242949;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;504,000;Aparecida de Goiânia;Principal;Decrescente;Ativo;;-16,736566;-49,242762;80;80
+CONCEBRA;2017;Redutor;BR-153;GO;505,050;Aparecida de Goiânia;Principal;Crescente;Ativo;;-16,745348;-49,240774;40;40
+CONCEBRA;2017;Redutor;BR-153;GO;505,050;Aparecida de Goiânia;Principal;Decrescente;Ativo;;-16,745358;-49,240598;40;40
+CONCEBRA;2017;Redutor;BR-153;GO;507,810;Aparecida de Goiânia;Principal;Decrescente;Ativo;;-16,768585;-49,239288;80;80
+CONCEBRA;2017;Redutor;BR-153;GO;508,310;Aparecida de Goiânia;Principal;Crescente;Ativo;;-16,773391;-49,237844;80;80
+CONCEBRA;2017;Redutor;BR-153;GO;508,944;Aparecida de Goiânia;Principal;Decrescente;Ativo;;-16,780085;-49,237028;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;510,100;Aparecida de Goiânia;Principal;Crescente;Ativo;;-16,788789;-49,237936;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;510,300;Aparecida de Goiânia;Principal;Decrescente;Ativo;;-16,791461;-49,237868;80;80
+CONCEBRA;2017;Controlador;BR-153;GO;514,190;Aparecida de Goiânia;Principal;Crescente;Ativo;;-16,826616;-49,242453;40;40
+CONCEBRA;2017;Controlador;BR-153;GO;514,250;Aparecida de Goiânia;Principal;Decrescente;Ativo;;-16,827086;-49,242316;40;40
+CONCEBRA;2017;Controlador;BR-153;GO;610,800;Morrinhos;Principal;Decrescente;Ativo;;-17,631860;-49,176422;40;40
+CONCEBRA;2017;Controlador;BR-153;GO;663,130;Goiatuba;Principal;Crescente;Ativo;;-18,073307;-49,270285;60;60
+CONCEBRA;2017;Controlador;BR-153;GO;663,730;Goiatuba;Principal;Crescente;Ativo;;-18,078784;-49,271031;60;60
+CONCEBRA;2017;Controlador;BR-153;GO;666,550;Goiatuba;Principal;Crescente;Ativo;;-18,103438;-49,275434;60;60
+CONCEBRA;2017;Redutor;BR-262;MG;449,500;Nova Serrana;Principal;Decrescente;Ativo;;-19,851623;-45,026842;40;40
+CONCEBRA;2017;Redutor;BR-262;MG;449,500;Nova Serrana;Principal;Crescente;Ativo;;-19,851477;-45,026708;40;40
+CONCEBRA;2017;Redutor;BR-262;MG;476,800;Bom Despacho;Principal;Crescente;Ativo;;-19,785777;-45,252522;60;60
+CONCEBRA;2017;Redutor;BR-262;MG;476,800;Bom Despacho;Principal;Decrescente;Ativo;;-19,785695;-45,252492;60;60
+CONCEBRA;2017;Redutor;BR-262;MG;477,800;Bom Despacho;Principal;Crescente;Ativo;;-19,782900;-45,259690;60;60
+CONCEBRA;2017;Redutor;BR-262;MG;477,800;Bom Despacho;Principal;Decrescente;Ativo;;-19,782990;-45,259748;60;60
+CONCEBRA;2017;Redutor;BR-262;MG;523,200;Luz;Principal;Crescente;Ativo;;-19,782754;-45,683213;60;60
+CONCEBRA;2017;Redutor;BR-262;MG;523,200;Luz;Principal;Decrescente;Ativo;;-19,782849;-45,683220;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;558,900;Córrego Danta;Principal;Crescente;Ativo;;-19,742265;-45,945669;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;558,900;Córrego Danta;Principal;Decrescente;Ativo;;-19,742343;-45,945591;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;566,200;Córrego Danta;Principal;Crescente;Ativo;;-19,739018;-46,008071;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;566,200;Córrego Danta;Principal;Decrescente;Ativo;;-19,738975;-46,007996;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;591,415;Campos Altos;Principal;Crescente;Ativo;;-19,666914;-46,164023;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;591,415;Campos Altos;Principal;Decrescente;Ativo;;-19,666836;-46,164017;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;594,480;Campos Altos;Principal;Crescente;Ativo;;-19,653606;-46,184685;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;594,480;Campos Altos;Principal;Decrescente;Ativo;;-19,653682;-46,184662;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;678,546;Araxá;Principal;Crescente;Ativo;;-19,554630;-46,888667;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;678,546;Araxá;Principal;Decrescente;Ativo;;-19,554674;-46,888703;60;60
+CONCEBRA;2017;Redutor;BR-153;MG;1,432;Araporã;Principal;Decrescente;Ativo;;-18,428617;-49,192556;60;60
+CONCEBRA;2017;Redutor;BR-153;MG;17,750;Centralina;Principal;Crescente;Ativo;;-18,575721;-49,193931;60;60
+CONCEBRA;2017;Controlador;BR-153;MG;20,400;Centralina;Principal;Crescente;Ativo;;-18,599946;-49,192408;60;60
+CONCEBRA;2017;Controlador;BR-153;MG;21,100;Centralina;Principal;Decrescente;Ativo;;-18,605203;-49,191862;60;60
+CONCEBRA;2017;Redutor;BR-153;MG;57,900;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,876348;-49,058254;60;60
+CONCEBRA;2017;Controlador;BR-153;MG;65,525;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,941608;-49,026624;60;60
+CONCEBRA;2017;Controlador;BR-153;MG;66,500;Monte Alegre de Minas;Principal;Decrescente;Ativo;;-18,949742;-49,026207;60;60
+CONCEBRA;2017;Controlador;BR-153;MG;75,200;Monte Alegre de Minas;Principal;Crescente;Ativo;;-19,025926;-49,011557;60;60
+CONCEBRA;2017;Redutor;BR-153;MG;107,845;Prata;Principal;Decrescente;Ativo;;-19,297922;-48,907500;60;60
+CONCEBRA;2017;Redutor;BR-153;MG;107,800;Prata;Principal;Crescente;Ativo;;-19,297202;-48,907709;60;60
+CONCEBRA;2017;Controlador;BR-60;DF;29,100;Brasília;Principal;Decrescente;Ativo;;-16,031070;-48,253482;80;80
+CONCEBRA;2017;Controlador;BR-60;GO;0,700;Santo Antônio do Descoberto;Principal;Crescente;Ativo;;-16,057033;-48,261945;110;90
+CONCEBRA;2017;Controlador;BR-60;GO;18,820;Alexânia;Principal;Decrescente;Ativo;;-16,115564;-48,391403;110;90
+CONCEBRA;2017;Controlador;BR-60;GO;26,000;Alexânia;Principal;Crescente;Ativo;;-16,105136;-48,451785;110;90
+CONCEBRA;2017;Controlador;BR-60;GO;27,500;Alexânia;Principal;Decrescente;Ativo;;-16,102011;-48,464212;110;90
+CONCEBRA;2017;Controlador;BR-60;GO;28,240;Alexânia;Principal;Decrescente;Ativo;;-16,100433;-48,470791;110;90
+CONCEBRA;2017;Controlador;BR-60;GO;109,400;Goianápolis;Principal;Crescente;Ativo;;-16,448350;-49,025775;110;90
+CONCEBRA;2017;Controlador;BR-153;MG;45,800;Canápolis;Principal;Crescente;Ativo;;-18,784187;-49,081987;80;80
+CONCEBRA;2017;Controlador;BR-153;MG;51,800;Monte Alegre de Minas;Principal;Decrescente;Ativo;;-18,835723;-49,091155;80;80
+CONCEBRA;2017;Controlador;BR-262;MG;365,350;Juatuba;Principal;Decrescente;Ativo;;-19,972472;-44,308858;80;80
+CONCEBRA;2017;Controlador;BR-262;MG;377,500;Juatuba;Principal;Decrescente;Ativo;;-19,931025;-44,412783;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;378,800;Juatuba;Principal;Decrescente;Ativo;;-19,933103;-44,427292;60;60
+CONCEBRA;2017;Controlador;BR-262;MG;380,350;Juatuba;Principal;Decrescente;Ativo;;-19,935039;-44,435286;60;60
+CONCER;2016;Controlador;BR-40;RJ;24,900;Três Rios;Principal;Decrescente;Ativo;;-22,148066;-43,158292;70;70
+CONCER;2016;Controlador;BR-40;RJ;65,000;Petrópolis;Principal;Decrescente;Ativo;;-22,428082;-43,161750;70;70
+CONCER;2016;Controlador;BR-40;RJ;72,500;Petrópolis;Principal;Crescente;Ativo;;-22,461620;-43,222137;70;70
+CONCER;2016;Controlador;BR-40;RJ;74,600;Petrópolis;Principal;Decrescente;Ativo;;-22,479247;-43,217286;70;70
+CONCER;2016;Controlador;BR-40;RJ;83,700;Petrópolis;Principal;Crescente;Ativo;;-22,521737;-43,235255;70;70
+CONCER;2016;Controlador;BR-40;RJ;105,900;Duque de Caxias;Principal;Decrescente;Ativo;;-22,646195;-43,283664;90;90
+CONCER;2016;Controlador;BR-40;RJ;64,700;Petrópolis;Principal;Crescente;Ativo;;-22,427058;-43,158645;70;70
+CONCER;2016;Controlador;BR-40;RJ;86,800;Petrópolis;Principal;Crescente;Ativo;;-22,542299;-43,233504;70;70
+CONCER;2016;Controlador;BR-40;RJ;80,000;Petrópolis;Principal;Crescente;Ativo;;-22,498044;-43,228858;70;70
+CONCER;2016;Controlador;BR-40;RJ;97,110;Duque de Caxias;Principal;Decrescente;Ativo;;-22,583707;-43,261083;50;50
+CONCER;2016;Controlador;BR-40;RJ;80,160;Petrópolis;Principal;Decrescente;Ativo;;-22,519988;-43,228025;70;70
+CONCER;2016;Controlador;BR-40;MG;815,200;Simão Pereira;Principal;Crescente;Ativo;;-21,918528;-43,322804;70;70
+CONCER;2016;Controlador;BR-40;MG;815,800;Simão Pereira;Principal;Decrescente;Ativo;;-21,923099;-43,320567;70;70
+CONCER;2016;Controlador;BR-40;MG;784,600;Juiz de Fora;Principal;Decrescente;Ativo;;-21,732482;-43,439310;70;70
+CONCER;2016;Controlador;BR-40;MG;781,000;Juiz de Fora;Principal;Decrescente;Ativo;;-21,705447;-43,450948;70;70
+CONCER;2016;Controlador;BR-40;MG;781,000;Juiz de Fora;Principal;Crescente;Ativo;;-21,704476;-43,451743;70;70
+CRO;2016;Controlador;BR-70;MT;503,360;Cuiabá;Principal;Crescente/Decrescente;Ativo;;-15,698816;-56,034129;60;60
+CRO;2016;Controlador;BR-70;MT;504,000;Cuiabá;Principal;Crescente/Decrescente;Ativo;;-15,700683;-56,046185;60;60
+CRO;2016;Controlador;BR-70;MT;523,300;Várzea Grande;Principal;Crescente/Decrescente;Ativo;;-15,654771;-56,191106;60;60
+CRO;2016;Controlador;BR-163;MT;593,400;Nova Mutum;Principal;Crescente/Decrescente;Ativo;;-13,862718;-56,086189;60;60
+CRO;2016;Controlador;BR-163;MT;832,400;Sinop;Principal;Crescente;Ativo;;-11,884887;-55,501339;60;60
+CRO;2016;Controlador;BR-163;MT;832,900;Sinop;Principal;Decrescente;Ativo;;-11,880062;-55,500169;60;60
+CRO;2016;Controlador;BR-163;MT;834,300;Sinop;Principal;Crescente;Ativo;;-11,868907;-55,497154;60;60
+CRO;2016;Redutor;BR-364;MT;204,100;Rondonópolis;Principal;Decrescente;Ativo;;-16,462925;-54,659422;40;40
+CRO;2016;Controlador;BR-364;MT;209,630;Rondonópolis;Principal;Decrescente;Ativo;;-16,428308;-54,694709;60;60
+CRO;2016;Controlador;BR-364;MT;275,900;Jaciara;Principal;Crescente/Decrescente;Ativo;;-15,952476;-54,994747;60;60
+CRO;2016;Controlador;BR-364;MT;277,200;Jaciara;Principal;Decrescente;Ativo;;-15,948487;-55,004495;60;60
+CRO;2016;Controlador;BR-364;MT;277,600;Jaciara;Principal;Decrescente;Ativo;;-15,948487;-55,004495;60;60
+CRO;2016;Redutor;BR-70;MT;522,035;Várzea Grande;Principal;Crescente;Ativo;;-15,664013;-56,184515;40;40
+CRO;2016;Redutor;BR-70;MT;522,100;Várzea Grande;Principal;Decrescente;Ativo;;-15,663936;-56,184613;40;40
+CRO;2016;Redutor;BR-163;MT;595,500;Nova Mutum;Principal;Crescente/Decrescente;Ativo;;-13,842005;-56,083407;40;40
+CRO;2016;Controlador;BR-163;MT;597,700;Nova Mutum;Principal;Crescente;Ativo;;-13,823458;-56,078228;60;60
+CRO;2016;Redutor;BR-163;MT;659,300;Lucas do Rio Verde;Principal;Crescente;Ativo;;-13,308807;-56,041599;50;50
+CRO;2016;Redutor;BR-163;MT;659,500;Lucas do Rio Verde;Principal;Decrescente;Ativo;;-13,308807;-56,041599;50;50
+CRO;2016;Controlador;BR-163;MT;686,200;Lucas do Rio Verde;Principal;Crescente/Decrescente;Ativo;;-13,085958;-55,942035;60;60
+CRO;2016;Redutor;BR-163;MT;688,500;Lucas do Rio Verde;Principal;Crescente;Ativo;;-13,067560;-55,925153;50;50
+CRO;2016;Redutor;BR-163;MT;688,960;Lucas do Rio Verde;Principal;Decrescente;Ativo;;-13,067560;-55,925153;50;50
+CRO;2016;Controlador;BR-163;MT;690,850;Lucas do Rio Verde;Principal;Crescente/Decrescente;Ativo;;-13,055465;-55,912815;60;60
+CRO;2016;Redutor;BR-163;MT;714,000;Sorriso;Principal;Crescente;Ativo;;-12,862742;-55,833343;40;40
+CRO;2016;Redutor;BR-163;MT;714,380;Sorriso;Principal;Decrescente;Ativo;;-12,859497;-55,832187;40;40
+CRO;2016;Controlador;BR-163;MT;746,100;Sorriso;Principal;Crescente;Ativo;;-12,601219;-55,749739;60;60
+CRO;2016;Redutor;BR-163;MT;751,550;Sorriso;Principal;Crescente/Decrescente;Ativo;;-12,560517;-55,719497;50;50
+CRO;2016;Redutor;BR-163;MT;753,100;Sorriso;Principal;Decrescente;Ativo;;-12,549260;-55,712584;50;50
+CRO;2016;Redutor;BR-163;MT;753,600;Sorriso;Principal;Crescente;Ativo;;-12,545764;-55,709854;50;50
+CRO;2016;Redutor;BR-163;MT;753,625;Sorriso;Principal;Decrescente;Ativo;;-12,545302;-55,710001;50;50
+CRO;2016;Controlador;BR-163;MT;823,600;Sinop;Principal;Crescente;Ativo;;-11,962062;-55,516853;60;60
+CRO;2016;Controlador;BR-163;MT;824,000;Sinop;Principal;Decrescente;Ativo;;-11,958226;-55,517092;60;60
+CRO;2016;Controlador;BR-163;MT;831,000;Sinop;Principal;Crescente/Decrescente;Ativo;;-11,897853;-55,504829;60;60
+CRO;2016;Controlador;BR-163;MT;836,400;Sinop;Principal;Crescente/Decrescente;Ativo;;-11,849721;-55,492209;60;60
+CRO;2016;Controlador;BR-163;MT;837,200;Sinop;Principal;Decrescente;Ativo;;-11,842430;-55,490409;40;40
+CRO;2016;Controlador;BR-163;MT;854,000;Sinop;Principal;Crescente/Decrescente;Ativo;;-11,695381;-55,452044;60;60
+CRO;2016;Controlador;BR-364;MT;269,000;Jaciara;Principal;Crescente;Ativo;;-15,972171;-54,939550;60;60
+CRO;2016;Controlador;BR-364;MT;269,000;Jaciara;Principal;Decrescente;Ativo;;-15,972171;-54,939550;60;60
+CRO;2016;Redutor;BR-364;MT;346,500;Campo Verde;Principal;Crescente;Ativo;;-15,796013;-55,554869;50;50
+CRO;2016;Redutor;BR-364;MT;349,470;Santo Antônio de Leverger;Principal;Crescente;Ativo;;-15,792933;-55,579288;50;50
+CRO;2016;Redutor;BR-364;MT;347,488;Campo Verde;Principal;Crescente;Ativo;;-15,796117;-55,561033;50;50
+CRO;2016;Redutor;BR-364;MT;348,650;Santo Antônio de Leverger;Principal;Crescente;Ativo;;-15,793378;-55,571656;50;50
+CRO;2016;Redutor;BR-163;MT;821,000;Sinop;Principal;Crescente/Decrescente;Ativo;;-11,985969;-55,517047;40;40
+CRO;2016;Redutor;BR-364;MT;206,340;Rondonópolis;Principal;Decrescente;Ativo;;-16,445539;-54,669254;40;40
+CRO;2016;Controlador;BR-163;MT;15,350;Itiquira;Principal;Decrescente;Ativo;;-17,383148;-54,757556;80;80
+CRO;2016;Controlador;BR-163;MT;16,500;Itiquira;Principal;Crescente;Ativo;;-17,373189;-54,756445;80;80
+CRO;2016;Controlador;BR-163;MT;17,200;Itiquira;Principal;Decrescente;Ativo;;-17,366535;-54,756770;80;80
+CRO;2016;Redutor;BR-364;MT;203,230;Rondonópolis;Principal;Decrescente;Ativo;;-16,469739;-54,656214;40;40
+CRO;2016;Redutor;BR-163;MT;786,700;Vera;Principal;Crescente/Decrescente;Ativo;;-12,287022;-55,562297;40;40
+CRO;2016;Controlador;BR-163;MT;109,720;Rondonópolis;Principal;Decrescente;Ativo;;-16,574520;-54,685300;80;80
+CRO;2016;Redutor;BR-163;MT;752,730;Sorriso;Principal;Crescente;Ativo;;-12,552292;-55,714197;50;50
+CRO;2016;Controlador;BR-163;MT;836,000;Sinop;Principal;Crescente;Ativo;;-11,851150;-55,492633;60;60
+CRO;2016;Controlador;BR-364;MT;207,540;Rondonópolis;Principal;Crescente;Ativo;;-16,436026;-54,683081;60;60
+CRO;2016;Controlador;BR-163;MT;835,300;Sinop;Principal;Crescente/Decrescente;Ativo;;-11,860489;-55,495108;60;60
+ECO050;2017;Redutor;BR-50;GO;278,650;Catalão;Principal;Decrescente;Ativo;;-18,172200;-47,925400;60;60
+ECO050;2017;Redutor;BR-50;GO;279,650;Catalão;Principal;Crescente;Ativo;;-18,176630;-47,933610;60;60
+ECO050;2017;Redutor;BR-50;GO;280,620;Catalão;Principal;Crescente/Decrescente;Ativo;;-18,181620;-47,941020;60;60
+ECO050;2017;Redutor;BR-50;GO;281,000;Catalão;Principal;Crescente;Ativo;;-18,183610;-47,943950;60;60
+ECO050;2017;Controlador;BR-50;MG;51,900;Araguari;Principal;Crescente;Ativo;;-18,751800;-48,237650;80;80
+ECO050;2017;Redutor;BR-50;MG;53,800;Araguari;Principal;Decrescente;Ativo;;-18,766410;-48,244590;60;60
+ECO050;2017;Redutor;BR-50;MG;55,100;Uberlândia;Principal;Decrescente;Ativo;;-18,774580;-48,239720;60;60
+ECO050;2017;Redutor;BR-50;MG;56,400;Uberlândia;Principal;Decrescente;Ativo;;-18,782700;-48,233220;60;60
+ECO050;2017;Redutor;BR-50;MG;171,000;Uberaba;Principal;Crescente;Ativo;;-19,744230;-47,984160;70;70
+ECO050;2017;Redutor;BR-50;MG;171,200;Uberaba;Principal;Decrescente;Ativo;;-19,746320;-47,983650;60;60
+ECO050;2017;Redutor;BR-50;MG;182,100;Uberaba;Principal;Crescente;Ativo;;-19,792910;-47,911910;50;50
+ECO050;2017;Redutor;BR-50;MG;182,200;Uberaba;Principal;Decrescente;Ativo;;-19,793940;-47,911100;50;50
+ECO050;2017;Redutor;BR-50;MG;206,500;Delta;Principal;Crescente;Ativo;;-19,979410;-47,789120;50;50
+ECO050;2017;Redutor;BR-50;MG;206,700;Delta;Principal;Decrescente;Ativo;;-19,981510;-47,788700;50;50
+ECO050;2017;Redutor;BR-50;GO;96,350;Cristalina;Principal;Crescente;Ativo;;-16,757700;-47,609340;40;40
+ECO050;2017;Redutor;BR-50;GO;99,830;Cristalina;Principal;Crescente/Decrescente;Ativo;;-16,781350;-47,630640;80;80
+ECO101;2020;Controlador;BR-101;ES;216,140;Serra;Principal;Crescente;Ativo;;-20,146583;-40,286667;60;60
+ECO101;2020;Controlador;BR-101;ES;261,080;Serra;Principal;Decrescente;Ativo;;-20,151056;-40,278722;60;60
+ECO101;2020;Controlador;BR-101;ES;14,022;Pedro Canário;Principal;Crescente;Ativo;;-18,282360;-39,956880;60;60
+ECO101;2020;Controlador;BR-101;ES;15,503;Pedro Canário;Principal;Crescente/Decrescente;Ativo;;-18,294220;-39,956470;60;60
+ECO101;2020;Controlador;BR-101;ES;17,837;Pinheiros;Principal;Decrescente;Ativo;;-18,313020;-39,954610;60;60
+ECO101;2020;Controlador;BR-101;ES;31,114;Conceição da Barra;Principal;Crescente/Decrescente;Ativo;;-18,420860;-39,935610;60;60
+ECO101;2020;Controlador;BR-101;ES;37,777;Conceição da Barra;Principal;Crescente/Decrescente;Ativo;;-18,478940;-39,924860;60;60
+ECO101;2020;Controlador;BR-101;ES;50,020;Conceição da Barra;Principal;Crescente/Decrescente;Ativo;;-18,582990;-39,893160;60;60
+ECO101;2020;Controlador;BR-101;ES;61,061;São Mateus;Principal;Crescente;Ativo;;-18,676970;-39,865080;60;60
+ECO101;2020;Controlador;BR-101;ES;62,156;São Mateus;Principal;Crescente/Decrescente;Ativo;;-18,686300;-39,862300;60;60
+ECO101;2020;Controlador;BR-101;ES;68,381;São Mateus;Principal;Crescente/Decrescente;Ativo;;-18,723530;-39,860940;60;60
+ECO101;2020;Controlador;BR-101;ES;69,039;São Mateus;Principal;Crescente/Decrescente;Ativo;;-18,729160;-39,859970;60;60
+ECO101;2020;Controlador;BR-101;ES;126,465;Linhares;Principal;Crescente;Ativo;;-19,189860;-40,094720;60;60
+ECO101;2020;Controlador;BR-101;ES;126,466;Linhares;Principal;Decrescente;Ativo;;-19,189860;-40,094720;60;60
+ECO101;2020;Controlador;BR-101;ES;126,827;Linhares;Principal;Crescente;Ativo;;-19,193130;-40,095080;60;60
+ECO101;2020;Controlador;BR-101;ES;126,828;Linhares;Principal;Decrescente;Ativo;;-19,193130;-40,095080;60;60
+ECO101;2020;Controlador;BR-101;ES;150,022;Linhares;Principal;Crescente/Decrescente;Ativo;;-19,404520;-40,060800;60;60
+ECO101;2020;Controlador;BR-101;ES;151,239;Linhares;Principal;Decrescente;Ativo;;-19,413750;-40,066800;60;60
+ECO101;2020;Controlador;BR-101;ES;291,986;Cariacica;Principal;Crescente;Ativo;;-20,305690;-40,394940;60;60
+ECO101;2020;Controlador;BR-101;ES;296,230;Cariacica;Principal;Crescente;Ativo;;-20,342080;-40,405270;60;60
+ECO101;2020;Controlador;BR-101;ES;299,654;Viana;Principal;Crescente;Ativo;;-20,357300;-40,428080;60;60
+ECO101;2020;Controlador;BR-101;ES;357,738;Anchieta;Principal;Decrescente;Ativo;;-20,691940;-40,704270;60;60
+ECO101;2020;Controlador;BR-101;ES;370,557;Anchieta;Principal;Decrescente;Ativo;;-20,770860;-40,765550;60;60
+ECO101;2020;Controlador;BR-101;ES;429,643;Atílio Vivácqua;Principal;Decrescente;Ativo;;-21,028580;-41,164360;60;60
+ECO101;2020;Controlador;BR-101;ES;450,356;Mimoso do Sul;Principal;Decrescente;Ativo;;-21,148130;-41,271500;60;60
+ECO101;2020;Controlador;BR-101;ES;457,319;Mimoso do Sul;Principal;Crescente;Ativo;;-21,196490;-41,300110;60;60
+ECO101;2020;Controlador;BR-101;ES;457,908;Mimoso do Sul;Principal;Decrescente;Ativo;;-21,201800;-41,300830;60;60
+ECOPONTE;2017;Controlador;BR-101;RJ;332,720;Niterói;Principal;Decrescente;Ativo;;-22,876172;-43,208744;80;80
+ECOPONTE;2017;Controlador;BR-101;RJ;332,720;Niterói;Principal;Crescente;Ativo;;-22,876172;-43,208744;80;80
+ECOPONTE;2017;Controlador;BR-101;RJ;329,900;Niterói;Principal;Decrescente;Ativo;;-22,868429;-43,185028;80;80
+ECOPONTE;2017;Controlador;BR-101;RJ;329,900;Niterói;Principal;Crescente;Ativo;;-22,868429;-43,185028;80;80
+ECOPONTE;2017;Controlador;BR-101;RJ;327,630;Niterói;Principal;Crescente;Ativo;;-22,870416;-43,163312;80;80
+ECOPONTE;2017;Controlador;BR-101;RJ;325,940;Niterói;Principal;Decrescente;Ativo;;-22,871861;-43,147095;80;80
+ECOPONTE;2017;Controlador;BR-101;RJ;323,700;Niterói;Principal;Decrescente;Ativo;;-22,873872;-43,125076;80;80
+ECOPONTE;2017;Controlador;BR-101;RJ;323,700;Niterói;Principal;Crescente;Ativo;;-22,873872;-43,125076;80;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-414;GO;440,800;Anápolis;Principal;Crescente/Decrescente;Ativo;;-16,282363;-48,942771;60;60
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-414;GO;438,600;Anápolis;Principal;Crescente/Decrescente;Ativo;;-16,268962;-48,939551;60;60
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;436,360;Anápolis;Principal;Decrescente;Ativo;;-16,249033;-48,934741;60;60
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;434,870;Anápolis;Principal;Crescente;Ativo;;-16,236223;-48,932407;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;421,400;Abadiânia;Principal;Crescente/Decrescente;Ativo;;-16,127488;-48,895143;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;432,375;Abadiânia;Principal;Crescente/Decrescente;Ativo;;-16,217023;-48,920243;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;417,230;Abadiânia;Principal;Crescente;Ativo;;-16,103908;-48,869386;80;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-414;GO;412,000;Abadiânia;Principal;Crescente/Decrescente;Ativo;;-16,052248;-48,853335;40;40
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-414;GO;394,515;Corumbá de Goiás;Principal;Decrescente;Ativo;;-15,931451;-48,805083;50;50
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-414;GO;392,625;Corumbá de Goiás;Principal;Crescente;Ativo;;-15,916196;-48,807403;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;363,600;Cocalzinho de Goiás;Principal;Crescente/Decrescente;Ativo;;-15,722055;-48,699035;60;60
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;362,800;Cocalzinho de Goiás;Principal;Crescente/Decrescente;Ativo;;-15,715381;-48,695734;60;60
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-414;GO;356,715;Cocalzinho de Goiás;Principal;Decrescente;Ativo;;-15,671297;-48,700759;60;60
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-414;GO;356,400;Cocalzinho de Goiás;Principal;Crescente;Ativo;;-15,670209;-48,698215;60;60
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-414;GO;332,760;Cocalzinho de Goiás;Principal;Crescente/Decrescente;Ativo;;-15,486599;-48,618535;60;60
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-80;GO;94,500;Vila Propício;Principal;Crescente/Decrescente;Ativo;;-15,208355;-48,701911;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-80;GO;125,000;Barro Alto;Principal;Crescente/Decrescente;Ativo;;-15,030973;-48,893726;80;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-80;GO;129,930;Barro Alto;Principal;Crescente;Ativo;;-14,989301;-48,909156;50;50
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-80;GO;130,210;Barro Alto;Principal;Decrescente;Ativo;;-14,988166;-48,911473;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;441,030;Anápolis;Principal;Crescente;Ativo;;-16,338150;-48,922778;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;440,775;Anápolis;Principal;Decrescente;Ativo;;-16,335995;-48,922490;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;437,270;Anápolis;Principal;Decrescente;Ativo;;-16,304463;-48,924616;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;436,635;Anápolis;Principal;Crescente;Ativo;;-16,299461;-48,927526;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;435,425;Anápolis;Principal;Decrescente;Ativo;;-16,291348;-48,935040;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;434,425;Anápolis;Principal;Crescente;Ativo;;-16,286986;-48,943195;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;433,045;Anápolis;Principal;Crescente;Ativo;;-16,282801;-48,955326;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;430,885;Anápolis;Principal;Crescente;Ativo;;-16,272530;-48,972678;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;430,685;Anápolis;Principal;Decrescente;Ativo;;-16,271461;-48,974186;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;428,045;Anápolis;Principal;Crescente;Ativo;;-16,254773;-48,991761;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;426,175;Anápolis;Principal;Crescente;Ativo;;-16,242058;-49,003264;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;424,475;Anápolis;Principal;Crescente;Ativo;;-16,227873;-49,009907;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;418,065;Anápolis;Principal;Decrescente;Ativo;;-16,180240;-49,042126;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;416,190;Anápolis;Principal;Crescente;Ativo;;-16,163261;-49,043457;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;415,550;Anápolis;Principal;Decrescente;Ativo;;-16,157159;-49,043635;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;412,850;Anápolis;Principal;Crescente/Decrescente;Ativo;;-16,133671;-49,047662;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;409,450;Pirenópolis;Principal;Crescente/Decrescente;Ativo;;-16,109264;-49,030959;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;403,650;Pirenópolis;Principal;Crescente/Decrescente;Ativo;;-16,067973;-49,059638;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;373,270;São Francisco de Goiás;Principal;Crescente/Decrescente;Ativo;;-15,871110;-49,253390;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;365,210;Jaraguá;Principal;Crescente/Decrescente;Ativo;;-15,809904;-49,294115;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;362,400;Jaraguá;Principal;Crescente/Decrescente;Ativo;;-15,786291;-49,303159;80;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;356,600;Jaraguá;Principal;Decrescente;Ativo;;-15,736904;-49,322539;50;50
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;356,210;Jaraguá;Principal;Crescente;Ativo;;-15,733853;-49,323849;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;354,075;Jaraguá;Principal;Crescente/Decrescente;Ativo;;-15,715916;-49,329607;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;325,000;Rianápolis;Principal;Crescente/Decrescente;Ativo;;-15,505152;-49,478510;60;60
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;321,100;Rianápolis;Principal;Crescente/Decrescente;Ativo;;-15,474912;-49,495780;50;50
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;317,950;Rianápolis;Principal;Crescente;Ativo;;-15,447988;-49,505805;40;40
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;309,450;Rialma;Principal;Crescente/Decrescente;Ativo;;-15,387230;-49,550791;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;304,365;Rialma;Principal;Crescente/Decrescente;Ativo;;-15,344979;-49,568783;80;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;300,580;Rialma;Principal;Crescente/Decrescente;Ativo;;-15,310915;-49,572192;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;293,140;Rialma;Principal;Crescente/Decrescente;Ativo;;-15,254216;-49,551449;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;290,395;Rialma;Principal;Crescente/Decrescente;Ativo;;-15,231696;-49,555100;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;277,420;Nova Glória;Principal;Crescente/Decrescente;Ativo;;-15,128675;-49,510637;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;259,395;São Luiz do Norte;Principal;Crescente;Ativo;;-14,999505;-49,410603;80;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;241,685;São Luiz do Norte;Principal;Crescente/Decrescente;Ativo;;-14,862101;-49,325789;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;236,640;São Luiz do Norte;Principal;Crescente/Decrescente;Ativo;;-14,824028;-49,299898;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;234,560;Hidrolina;Principal;Crescente/Decrescente;Ativo;;-14,808100;-49,289761;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;218,440;Uruaçu;Principal;Crescente/Decrescente;Ativo;;-14,685393;-49,208902;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;209,220;Uruaçu;Principal;Crescente;Ativo;;-14,612282;-49,168662;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;208,170;Uruaçu;Principal;Decrescente;Ativo;;-14,603128;-49,165912;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;205,580;Uruaçu;Principal;Crescente/Decrescente;Ativo;;-14,580323;-49,159490;100;100
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;200,295;Uruaçu;Principal;Crescente/Decrescente;Ativo;;-14,533858;-49,161073;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;161,610;Campinorte;Principal;Decrescente;Ativo;;-14,191959;-49,127816;100;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;155,440;Campinorte;Principal;Crescente/Decrescente;Ativo;;-14,138011;-49,114133;100;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;138,000;Mara Rosa;Principal;Crescente/Decrescente;Ativo;;-13,984564;-49,090591;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;93,530;Santa Tereza de Goiás;Principal;Crescente/Decrescente;Ativo;;-13,597911;-49,041876;60;60
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;73,030;Porangatu;Principal;Crescente/Decrescente;Ativo;;-13,459724;-49,135612;80;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;GO;71,000;Porangatu;Principal;Crescente/Decrescente;Ativo;;-13,441651;-49,132927;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;GO;64,660;Porangatu;Principal;Crescente/Decrescente;Ativo;;-13,384849;-49,127955;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;791,600;Talismã;Principal;Crescente/Decrescente;Ativo;;-12,744980;-49,082581;100;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;765,760;Alvorada;Principal;Crescente/Decrescente;Ativo;;-12,521229;-49,106343;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;717,880;Cariri do Tocantins;Principal;Crescente/Decrescente;Ativo;;-12,103320;-49,186310;100;80
+ECOVIAS DO ARAGUAIA;2021;Redutor;BR-153;TO;692,600;Cariri do Tocantins;Principal;Crescente/Decrescente;Ativo;;-11,888020;-49,164734;50;50
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;688,790;Cariri do Tocantins;Principal;Crescente/Decrescente;Ativo;;-11,856700;-49,149791;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;684,630;Cariri do Tocantins;Principal;Crescente/Decrescente;Ativo;;-11,822468;-49,133432;100;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;678,760;Cariri do Tocantins;Principal;Crescente/Decrescente;Ativo;;-11,775574;-49,108210;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;668,190;Gurupi;Principal;Decrescente;Ativo;;-11,689545;-49,070079;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;667,760;Gurupi;Principal;Crescente;Ativo;;-11,685878;-49,068921;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;660,590;Gurupi;Principal;Crescente/Decrescente;Ativo;;-11,624140;-49,048193;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;653,130;Dueré;Principal;Crescente/Decrescente;Ativo;;-11,559894;-49,026721;80;80
+ECOVIAS DO ARAGUAIA;2021;Controlador;BR-153;TO;634,220;Aliança do Tocantins;Principal;Crescente/Decrescente;Ativo;;-11,396368;-48,974738;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;626,000;Uberlândia;Principal;Crescente;Ativo;;-18,906404;-48,332923;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;626,520;Uberlândia;Principal;Decrescente;Ativo;;-18,905964;-48,337785;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;627,290;Uberlândia;Principal;Decrescente;Ativo;;-18,903439;-48,344564;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;628,560;Uberlândia;Principal;Decrescente;Ativo;;-18,901461;-48,356681;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;629,170;Uberlândia;Principal;Crescente;Ativo;;-18,900505;-48,361980;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;635,810;Uberlândia;Principal;Decrescente;Ativo;;-18,891811;-48,424400;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;637,610;Uberlândia;Principal;Crescente;Ativo;;-18,889142;-48,441237;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;637,870;Uberlândia;Principal;Decrescente;Ativo;;-18,889145;-48,444055;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;641,600;Uberlândia;Principal;Decrescente;Ativo;;-18,883260;-48,478578;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;654,680;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,871536;-48,598392;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;658,780;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,889650;-48,629711;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;685,720;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,865178;-48,866696;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;687,000;Monte Alegre de Minas;Principal;Decrescente;Ativo;;-18,874653;-48,873571;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;687,750;Monte Alegre de Minas;Principal;Crescente;Ativo;;-18,876278;-48,880364;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;690,490;Monte Alegre de Minas;Principal;Decrescente;Ativo;;-18,876702;-48,906334;110;90
+ECOVIAS DO CERRADO;2020;Redutor;BR-365;MG;750,320;Ituiutaba;Principal;Crescente;Ativo;;-18,946378;-49,457167;60;60
+ECOVIAS DO CERRADO;2020;Redutor;BR-365;MG;750,650;Ituiutaba;Principal;Decrescente;Ativo;;-18,947786;-49,459383;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-365;MG;753,390;Ituiutaba;Principal;Crescente/Decrescente;Ativo;;-18,963865;-49,478401;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-365;MG;753,850;Ituiutaba;Principal;Crescente/Decrescente;Ativo;;-18,965184;-49,482543;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-365;MG;822,960;Santa Vitória;Principal;Crescente;Ativo;;-18,875787;-50,122053;60;60
+ECOVIAS DO CERRADO;2020;Redutor;BR-365;MG;869,080;Santa Vitória;Principal;Crescente/Decrescente;Ativo;;-19,046056;-50,494141;60;60
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;0,900;São Simão;Principal;Crescente/Decrescente;Ativo;;-19,039620;-50,510909;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;5,350;São Simão;Principal;Crescente;Ativo;;-19,013349;-50,542788;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;6,870;São Simão;Principal;Crescente/Decrescente;Ativo;;-19,004861;-50,554215;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;16,050;São Simão;Principal;Crescente/Decrescente;Ativo;;-18,955169;-50,623378;60;60
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;21,600;São Simão;Principal;Crescente;Ativo;;-18,919326;-50,660287;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;55,350;Cachoeira Alta;Principal;Crescente/Decrescente;Ativo;;-18,768132;-50,927046;40;40
+ECOVIAS DO CERRADO;2020;Controlador;BR-364;GO;56,680;Cachoeira Alta;Principal;Crescente/Decrescente;Ativo;;-18,757252;-50,932331;80;80
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;58,270;Cachoeira Alta;Principal;Crescente/Decrescente;Ativo;;-18,744902;-50,940098;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;112,690;Cachoeira Alta;Principal;Crescente;Ativo;;-18,305797;-51,144633;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;113,620;Aparecida do Rio Doce;Principal;Crescente/Decrescente;Ativo;;-18,298209;-51,148596;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;114,145;Aparecida do Rio Doce;Principal;Crescente/Decrescente;Ativo;;-18,294207;-51,151101;40;40
+ECOVIAS DO CERRADO;2020;Redutor;BR-364;GO;158,770;Jataí;Principal;Crescente/Decrescente;Ativo;;-18,094240;-51,497227;40;40
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;710,600;Monte Alegre de Minas;Principal;Crescente/Decrescente;Ativo;;-18,879425;-49,096326;80;80
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;681,000;Monte Alegre de Minas;Principal;Decrescente;Ativo;;-18,849724;-48,827328;110;90
+ECOVIAS DO CERRADO;2020;Controlador;BR-365;MG;681,000;Monte Alegre de Minas;Principal;Decrescente;Ativo;;-18,849724;-48,827328;110;90
+LITORAL PIONEIRO;2019;Controlador;Acesso BR-277 2;PR;2,000;Paranaguá;Principal;Crescente;Ativo;;-25,548977;-48,548419;60;60
+LITORAL PIONEIRO;2019;Controlador;Acesso BR-277 2;PR;2,050;Paranaguá;Principal;Decrescente;Ativo;;-25,548643;-48,548235;60;60
+LITORAL PIONEIRO;2019;Controlador;BR-277;PR;31,940;Morretes;Principal;Crescente;Ativo;;-25,560000;-48,813889;80;60
+LITORAL PIONEIRO;2019;Controlador;BR-277;PR;33,250;Morretes;Principal;Decrescente;Ativo;;-25,568055;-48,811944;80;60
+LITORAL PIONEIRO;2019;Controlador;BR-277;PR;36,340;Morretes;Principal;Decrescente;Ativo;;-25,571165;-48,839474;80;60
+MSVIA;2014;Controlador;BR-163;MS;26,600;Mundo Novo;Principal;Crescente;Ativo;;-23,876830;-54,321937;100;80
+MSVIA;2014;Controlador;BR-163;MS;27,300;Mundo Novo;Principal;Decrescente;Ativo;;-23,871613;-54,325601;100;80
+MSVIA;2014;Controlador;BR-163;MS;75,700;Itaquiraí;Principal;Decrescente;Ativo;;-23,492776;-54,185490;60;60
+MSVIA;2014;Controlador;BR-163;MS;260,200;Dourados;Principal;Crescente;Ativo;;-22,243012;-54,770460;100;80
+MSVIA;2014;Controlador;BR-163;MS;269,400;Dourados;Principal;Crescente;Ativo;;-22,198842;-54,697236;60;60
+MSVIA;2014;Controlador;BR-163;MS;270,700;Dourados;Principal;Decrescente;Ativo;;-22,192938;-54,689831;60;60
+MSVIA;2014;Controlador;BR-163;MS;363,500;Nova Alvorada do Sul;Principal;Crescente;Ativo;;-21,476968;-54,387384;60;60
+MSVIA;2014;Controlador;BR-163;MS;397,000;Nova Alvorada do Sul;Principal;Decrescente;Ativo;;-21,193144;-54,465419;100;80
+MSVIA;2014;Controlador;BR-163;MS;466,800;Campo Grande;Principal;Crescente;Ativo;;-20,580802;-54,579087;60;60
+MSVIA;2014;Controlador;BR-163;MS;475,600;Campo Grande;Principal;Decrescente;Ativo;;-20,514983;-54,563330;60;60
+MSVIA;2014;Controlador;BR-163;MS;480,600;Campo Grande;Principal;Crescente;Ativo;;-20,473340;-54,559409;60;60
+MSVIA;2014;Controlador;BR-163;MS;675,500;Rio Verde de Mato Grosso;Principal;Crescente;Ativo;;-18,959252;-54,828029;100;80
+MSVIA;2014;Controlador;BR-163;MS;690,600;Rio Verde de Mato Grosso;Principal;Crescente;Ativo;;-18,834186;-54,813606;100;80
+MSVIA;2014;Controlador;BR-163;MS;253,697;Dourados;Principal;Crescente;Ativo;;-22,273810;-54,818560;60;60
+MSVIA;2014;Controlador;BR-163;MS;681,397;Rio Verde de Mato Grosso;Principal;Crescente/Decrescente;Ativo;;-18,907938;-54,840658;60;60
+MSVIA;2014;Controlador;BR-163;MS;419,867;Campo Grande;Principal;Crescente/Decrescente;Ativo;;-20,992356;-54,506691;60;60
+MSVIA;2014;Controlador;BR-163;MS;255,795;Dourados;Principal;Crescente;Ativo;;-22,260629;-54,804010;60;60
+MSVIA;2014;Controlador;BR-163;MS;257,955;Dourados;Principal;Crescente;Ativo;;-22,258910;-54,784360;60;60
+MSVIA;2014;Controlador;BR-163;MS;258,465;Dourados;Principal;Decrescente;Ativo;;-22,256869;-54,780059;60;60
+MSVIA;2014;Controlador;BR-163;MS;649,060;São Gabriel do Oeste;Principal;Crescente/Decrescente;Ativo;;-19,162196;-54,759399;100;80
+MSVIA;2014;Controlador;BR-163;MS;421,496;Campo Grande;Principal;Crescente/Decrescente;Ativo;;-20,977801;-54,504827;60;60
+MSVIA;2014;Controlador;BR-163;MS;5,178;Mundo Novo;Principal;Crescente/Decrescente;Ativo;;-24,010380;-54,305270;60;60
+MSVIA;2014;Controlador;BR-163;MS;728,974;Coxim;Principal;Crescente/Decrescente;Ativo;;-18,514410;-54,737190;60;60
+MSVIA;2014;Redutor;BR-163;MS;527,000;Jaraguari;Principal;Crescente/Decrescente;Ativo;;-20,097495;-54,437731;40;40
+MSVIA;2014;Redutor;BR-163;MS;548,800;Bandeirantes;Principal;Crescente/Decrescente;Ativo;;-19,914738;-54,369697;40;40
+MSVIA;2014;Redutor;BR-163;MS;548,412;Bandeirantes;Principal;Crescente/Decrescente;Ativo;;-19,918343;-54,368549;40;40
+MSVIA;2014;Redutor;BR-163;MS;615,500;São Gabriel do Oeste;Principal;Crescente/Decrescente;Ativo;;-19,344893;-54,571672;40;40
+MSVIA;2014;Redutor;BR-163;MS;730,266;Coxim;Principal;Crescente/Decrescente;Ativo;;-18,503050;-54,733521;40;40
+MSVIA;2014;Redutor;BR-163;MS;680,433;Rio Verde de Mato Grosso;Principal;Crescente/Decrescente;Ativo;;-18,916170;-54,838502;40;40
+MSVIA;2014;Redutor;BR-163;MS;526,427;Jaraguari;Principal;Crescente/Decrescente;Ativo;;-20,102584;-54,439999;40;40
+MSVIA;2014;Redutor;BR-163;MS;614,172;São Gabriel do Oeste;Principal;Crescente/Decrescente;Ativo;;-19,400625;-54,564441;40;40
+MSVIA;2014;Controlador;BR-163;MS;575,313;Bandeirantes;Principal;Crescente/Decrescente;Ativo;;-19,679549;-54,350239;60;60
+MSVIA;2014;Controlador;BR-163;MS;254,015;Dourados;Principal;Decrescente;Ativo;;-22,271670;-54,816490;60;60
+MSVIA;2014;Redutor;BR-163;MS;18,536;Mundo Novo;Principal;Crescente/Decrescente;Ativo;;-23,938400;-54,281068;40;40
+MSVIA;2014;Redutor;BR-163;MS;265,824;Dourados;Principal;Crescente/Decrescente;Ativo;;-22,219275;-54,723943;40;40
+MSVIA;2014;Redutor;BR-163;MS;420,485;Campo Grande;Principal;Crescente/Decrescente;Ativo;;-20,986567;-54,506009;40;40
+MSVIA;2014;Controlador;BR-163;MS;17,596;Mundo Novo;Principal;Crescente/Decrescente;Ativo;;-23,945640;-54,283659;40;40
+MSVIA;2014;Controlador;BR-163;MS;487,480;Campo Grande;Principal;Crescente/Decrescente;Ativo;;-20,420040;-54,546540;60;60
+MSVIA;2014;Controlador;BR-163;MS;616,568;São Gabriel do Oeste;Principal;Crescente/Decrescente;Ativo;;-19,382070;-54,576070;60;60
+MSVIA;2014;Redutor;BR-163;MS;617,700;São Gabriel do Oeste;Principal;Crescente/Decrescente;Ativo;;-19,373270;-54,581459;60;60
+MSVIA;2014;Controlador;BR-163;MS;547,428;Bandeirantes;Principal;Crescente/Decrescente;Ativo;;-19,927050;-54,366100;60;60
+MSVIA;2014;Controlador;BR-163;MS;218,090;Caarapó;Principal;Crescente/Decrescente;Ativo;;-22,553860;-54,833060;100;80
+MSVIA;2014;Controlador;BR-163;MS;767,667;Coxim;Principal;Crescente/Decrescente;Ativo;;-18,185810;-54,654660;60;60
+MSVIA;2014;Controlador;BR-163;MS;491,800;Campo Grande;Principal;Decrescente;Ativo;;-20,387280;-54,548010;60;60
+MSVIA;2014;Controlador;BR-163;MS;493,276;Campo Grande;Principal;Crescente/Decrescente;Ativo;;-20,378370;-54,538020;100;80
+MSVIA;2014;Controlador;BR-163;MS;343,345;Rio Brilhante;Principal;Crescente/Decrescente;Ativo;;-20,387280;-54,548010;60;60
+MSVIA;2014;Controlador;BR-163;MS;308,309;Rio Brilhante;Principal;Crescente/Decrescente;Ativo;;-21,908173;-54,533093;80;80
+MSVIA;2014;Controlador;BR-163;MS;307,217;Douradina;Principal;Crescente/Decrescente;Ativo;;-21,908129;-54,533050;80;80
+MSVIA;2014;Controlador;BR-163;MS;725,467;Rio Verde de Mato Grosso;Principal;Crescente/Decrescente;Ativo;;-18,544533;-54,746857;60;60
+MSVIA;2014;Redutor;BR-163;MS;727,200;Rio Verde de Mato Grosso;Principal;Crescente/Decrescente;Ativo;;-18,530077;-54,741251;40;40
+MSVIA;2014;Controlador;BR-163;MS;413,170;Nova Alvorada do Sul;Principal;Crescente/Decrescente;Ativo;;-21,051700;-54,498883;100;80
+RIOSP;2000;Controlador;BR-116;RJ;336,085;Resende;Principal;Decrescente;Ativo;;-22,501349;-44,667637;110;90
+RIOSP;2000;Controlador;BR-116;RJ;332,880;Itatiaia;Principal;Crescente;Ativo;;-22,497182;-44,642786;110;90
+RIOSP;2000;Controlador;BR-116;RJ;317,930;Itatiaia;Principal;Decrescente;Ativo;;-22,467917;-44,510360;110;90
+RIOSP;2000;Controlador;BR-116;RJ;305,950;Resende;Principal;Crescente;Ativo;;-22,455725;-44,395567;110;90
+RIOSP;2000;Controlador;BR-116;RJ;305,540;Resende;Principal;Decrescente;Ativo;;-22,455395;-44,391704;110;90
+RIOSP;2000;Controlador;BR-116;RJ;276,590;Barra Mansa;Principal;Decrescente;Ativo;;-22,562395;-44,170901;80;80
+RIOSP;2000;Controlador;BR-116;RJ;270,700;Barra Mansa;Principal;Crescente;Ativo;;-22,563596;-44,122209;100;80
+RIOSP;2000;Controlador;BR-116;RJ;261,620;Volta Redonda;Principal;Decrescente;Ativo;;-22,585945;-44,055646;110;90
+RIOSP;2000;Controlador;BR-116;RJ;242,870;Piraí;Principal;Decrescente;Ativo;;-22,630104;-43,910386;100;80
+RIOSP;2000;Controlador;BR-116;RJ;234,100;Piraí;Principal;Crescente;Ativo;;-22,665734;-43,847786;80;80
+RIOSP;2000;Controlador;BR-116;RJ;233,100;Piraí;Principal;Decrescente;Ativo;;-22,665871;-43,839376;40;40
+RIOSP;2000;Controlador;BR-116;RJ;231,220;Piraí;Principal;Crescente;Ativo;;-22,652689;-43,832079;80;80
+RIOSP;2000;Controlador;BR-116;RJ;230,820;Piraí;Principal;Decrescente;Ativo;;-22,668398;-43,827811;40;40
+RIOSP;2000;Controlador;BR-116;RJ;228,670;Piraí;Principal;Decrescente;Ativo;;-22,679667;-43,838867;40;40
+RIOSP;2000;Controlador;BR-116;RJ;228,050;Piraí;Principal;Decrescente;Ativo;;-22,680299;-43,836068;40;40
+RIOSP;2000;Controlador;BR-116;RJ;226,540;Piraí;Principal;Decrescente;Ativo;;-22,682601;-43,827541;40;40
+RIOSP;2000;Controlador;BR-101;RJ;577,000;Paraty;Principal;Decrescente;Ativo;;-23,230872;-44,719659;60;60
+RIOSP;2000;Controlador;BR-101;RJ;532,100;Angra dos Reis;Principal;Decrescente;Ativo;;-23,017784;-44,530233;60;60
+RIOSP;2000;Controlador;BR-101;RJ;508,000;Angra dos Reis;Principal;Crescente;Ativo;;-22,941211;-44,421564;60;60
+RIOSP;2000;Controlador;BR-101;RJ;505,500;Angra dos Reis;Principal;Decrescente;Ativo;;-22,936705;-44,399357;50;50
+RIOSP;2000;Controlador;BR-101;RJ;485,800;Angra dos Reis;Principal;Decrescente;Ativo;;-22,979751;-44,295796;50;50
+RIOSP;2000;Controlador;BR-101;RJ;485,100;Angra dos Reis;Principal;Crescente;Ativo;;-22,985655;-44,297128;60;60
+RIOSP;2000;Controlador;BR-101;RJ;484,500;Angra dos Reis;Principal;Decrescente;Ativo;;-22,987772;-44,302403;60;60
+RIOSP;2000;Controlador;BR-101;RJ;483,800;Angra dos Reis;Principal;Decrescente;Ativo;;-22,993467;-44,304171;60;60
+RIOSP;2000;Controlador;BR-101;RJ;482,300;Angra dos Reis;Principal;Crescente;Ativo;;-23,002651;-44,297922;50;50
+RIOSP;2000;Controlador;BR-101;RJ;473,800;Angra dos Reis;Principal;Decrescente;Ativo;;-22,993366;-44,247773;50;50
+RIOSP;2000;Controlador;BR-101;RJ;472,300;Angra dos Reis;Principal;Decrescente;Ativo;;-22,987513;-44,234874;50;50
+RIOSP;2000;Controlador;BR-101;RJ;470,300;Angra dos Reis;Principal;Decrescente;Ativo;;-23,002553;-44,228513;60;60
+RIOSP;2000;Controlador;BR-101;RJ;432,960;Mangaratiba;Principal;Decrescente;Ativo;;-22,938545;-44,034254;60;60
+RIOSP;2000;Controlador;BR-101;RJ;419,600;Mangaratiba;Principal;Decrescente;Ativo;;-22,919123;-43,924176;60;60
+RIOSP;2000;Controlador;BR-101;RJ;415,000;Mangaratiba;Principal;Crescente;Ativo;;-22,906058;-43,888453;100;80
+RIOSP;2000;Controlador;BR-101;RJ;415,000;Mangaratiba;Principal;Decrescente;Ativo;;-22,906058;-43,888453;100;80
+RIOSP;2000;Controlador;BR-101;RJ;412,000;Itaguaí;Principal;Crescente;Ativo;;-22,898754;-43,861492;50;50
+RIOSP;2000;Controlador;BR-101;RJ;412,000;Itaguaí;Principal;Decrescente;Ativo;;-22,898754;-43,861492;50;50
+RIOSP;2000;Controlador;BR-101;RJ;407,000;Itaguaí;Principal;Decrescente;Ativo;;-22,877999;-43,818911;100;80
+RIOSP;2000;Controlador;BR-101;RJ;404,000;Itaguaí;Principal;Crescente;Ativo;;-22,862461;-43,795039;100;80
+RIOSP;2000;Controlador;BR-101;RJ;383,600;Rio de Janeiro;Principal;Decrescente;Ativo;;-22,879347;-43,621664;90;90
+RIOSP;2000;Controlador;BR-101;RJ;382,400;Rio de Janeiro;Principal;Crescente;Ativo;;-22,874774;-43,610946;90;90
+RIOSP;2000;Controlador;BR-116;SP;228,790;São Paulo;Principal;Crescente;Ativo;;-23,510284;-46,573941;110;90
+RIOSP;2000;Controlador;BR-116;SP;225,880;Guarulhos;Principal;Decrescente;Ativo;;-23,493594;-46,552641;90;90
+RIOSP;2000;Controlador;BR-116;SP;224,145;Guarulhos;Principal;Crescente;Ativo;;-23,483972;-46,538453;90;90
+RIOSP;2000;Controlador;BR-116;SP;224,145;Guarulhos;Principal;Crescente;Ativo;;-23,484045;-46,538374;110;90
+RIOSP;2000;Controlador;BR-116;SP;224,145;Guarulhos;Principal;Decrescente;Ativo;;-23,484090;-46,538325;110;90
+RIOSP;2000;Controlador;BR-116;SP;219,570;Guarulhos;Principal;Decrescente;Ativo;;-23,465246;-46,499640;90;90
+RIOSP;2000;Controlador;BR-116;SP;217,670;Guarulhos;Principal;Crescente;Ativo;;-23,458908;-46,483360;90;90
+RIOSP;2000;Controlador;BR-116;SP;202,390;Arujá;Principal;Crescente;Ativo;;-23,409483;-46,342533;110;90
+RIOSP;2000;Controlador;BR-116;SP;197,375;Arujá;Principal;Decrescente;Ativo;;-23,397994;-46,296136;80;80
+RIOSP;2000;Controlador;BR-116;SP;192,140;Santa Isabel;Principal;Decrescente;Ativo;;-23,376876;-46,249147;80;80
+RIOSP;2000;Controlador;BR-116;SP;176,350;Guararema;Principal;Crescente;Ativo;;-23,321825;-46,111816;110;90
+RIOSP;2000;Controlador;BR-116;SP;163,310;Jacareí;Principal;Crescente;Ativo;;-23,287129;-45,993317;110;90
+RIOSP;2000;Controlador;BR-116;SP;163,310;Jacareí;Principal;Decrescente;Ativo;;-23,287202;-45,993254;110;90
+RIOSP;2000;Controlador;BR-116;SP;148,700;São José dos Campos;Principal;Decrescente;Ativo;;-23,203685;-45,882728;100;80
+RIOSP;2000;Controlador;BR-116;SP;143,430;São José dos Campos;Principal;Crescente;Ativo;;-23,179129;-45,839602;110;90
+RIOSP;2000;Controlador;BR-116;SP;130,410;Caçapava;Principal;Crescente;Ativo;;-23,122603;-45,727277;110;90
+RIOSP;2000;Controlador;BR-116;SP;130,410;Caçapava;Principal;Decrescente;Ativo;;-23,122675;-45,727244;110;90
+RIOSP;2000;Controlador;BR-116;SP;116,240;Taubaté;Principal;Crescente;Ativo;;-23,054711;-45,611173;110;90
+RIOSP;2000;Controlador;BR-116;SP;108,260;Taubaté;Principal;Crescente;Ativo;;-23,024871;-45,540116;100;80
+RIOSP;2000;Controlador;BR-116;SP;106,040;Taubaté;Principal;Decrescente;Ativo;;-23,013327;-45,523768;100;80
+RIOSP;2000;Controlador;BR-116;SP;101,950;Pindamonhangaba;Principal;Crescente;Ativo;;-22,994664;-45,489411;110;90
+RIOSP;2000;Controlador;BR-116;SP;94,240;Pindamonhangaba;Principal;Crescente;Ativo;;-22,961476;-45,423261;110;90
+RIOSP;2000;Controlador;BR-116;SP;92,140;Pindamonhangaba;Principal;Decrescente;Ativo;;-22,952545;-45,405246;110;90
+RIOSP;2000;Controlador;BR-116;SP;69,390;Aparecida;Principal;Decrescente;Ativo;;-22,843232;-45,224667;100;80
+RIOSP;2000;Controlador;BR-116;SP;68,420;Aparecida;Principal;Crescente;Ativo;;-22,835632;-45,220051;100;80
+RIOSP;2000;Controlador;BR-116;SP;65,430;Guaratinguetá;Principal;Decrescente;Ativo;;-22,821801;-45,196731;100;80
+RIOSP;2000;Controlador;BR-116;SP;60,340;Guaratinguetá;Principal;Crescente;Ativo;;-22,792345;-45,163017;110;90
+RIOSP;2000;Controlador;BR-116;SP;54,000;Lorena;Principal;Decrescente;Ativo;;-22,757284;-45,114169;110;90
+RIOSP;2000;Controlador;BR-116;SP;38,520;Cachoeira Paulista;Principal;Decrescente;Ativo;;-22,672040;-44,995861;110;90
+RIOSP;2000;Controlador;BR-116;SP;28,120;Cruzeiro;Principal;Decrescente;Ativo;;-22,624377;-44,912786;80;80
+RIOSP;2000;Controlador;BR-116;SP;27,630;Silveiras;Principal;Crescente;Ativo;;-22,621920;-44,909430;80;80
+RIOSP;2000;Controlador;BR-116;SP;22,310;Lavrinhas;Principal;Decrescente;Ativo;;-22,585081;-44,879807;80;80
+RIOSP;2000;Controlador;BR-101;SP;50,500;Ubatuba;Principal;Decrescente;Ativo;;-23,452695;-45,074811;40;40
+RIOSP;2000;Controlador;BR-101;SP;48,630;Ubatuba;Principal;Crescente;Ativo;;-23,440116;-45,087368;40;40
+RIOSP;2000;Controlador;BR-101;SP;46,600;Ubatuba;Principal;Decrescente;Ativo;;-23,425878;-45,077354;40;40
+RIOSP;2000;Controlador;BR-101;SP;46,600;Ubatuba;Principal;Crescente;Ativo;;-23,425878;-45,077354;40;40
+RIOSP;2000;Controlador;BR-101;SP;35,330;Ubatuba;Principal;Crescente;Ativo;;-23,392756;-45,009061;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;103,450;Sapucaia;Principal;Crescente;Ativo;;-21,879046;-42,679691;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;104,320;Sapucaia;Principal;Decrescente;Ativo;;-21,880719;-42,684383;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;143,800;Sapucaia;Principal;Decrescente;Ativo;;-22,046359;-43,000731;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;157,380;Três Rios;Principal;Crescente;Ativo;;-22,101572;-43,094385;40;40
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;175,520;Três Rios;Principal;Crescente;Ativo;;-22,124125;-43,230130;40;40
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;236,380;Vassouras;Principal;Decrescente;Ativo;;-22,417588;-43,681278;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;236,840;Vassouras;Principal;Decrescente;Ativo;;-22,420001;-43,684734;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;238,750;Vassouras;Principal;Crescente;Ativo;;-22,430588;-43,700519;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;243,380;Vassouras;Principal;Decrescente;Ativo;;-22,431002;-43,740140;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;274,100;Barra do Piraí;Principal;Decrescente;Ativo;;-22,474864;-43,995843;60;60
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;232,250;Vassouras;Principal;Crescente;Ativo;;-22,392608;-43,652209;40;40
+RODOVIA DO AÇO;2016;Controlador;BR-393;RJ;232,330;Vassouras;Principal;Decrescente;Ativo;;-22,392345;-43,652073;40;40
+TRANSBRASILIANA;2015;Controlador;BR-153;SP;30,000;Nova Granada;Principal;Decrescente;Ativo;;-20,542967;-49,330419;60;60
+TRANSBRASILIANA;2015;Controlador;BR-153;SP;60,000;São José do Rio Preto;Principal;Crescente;Ativo;;-20,797253;-49,355186;80;80
+TRANSBRASILIANA;2015;Controlador;BR-153;SP;62,000;São José do Rio Preto;Principal;Decrescente;Ativo;;-20,812398;-49,356655;80;80
+VIA 040;2010;Controlador;BR-40;DF;2,000;Brasília;Principal;Crescente;Ativo;;-15,994078;-47,986100;80;80
+VIA 040;2010;Controlador;BR-40;DF;4,700;Brasília;Principal;Decrescente;Ativo;;-16,018344;-47,980934;80;80
+VIA 040;2010;Controlador;BR-40;GO;11,900;Luziânia;Principal;Crescente;Ativo;;-16,144233;-47,946132;80;80
+VIA 040;2010;Controlador;BR-40;GO;12,800;Luziânia;Principal;Decrescente;Ativo;;-16,151776;-47,938900;80;80
+VIA 040;2010;Controlador;BR-40;MG;525,900;Contagem;Principal;Decrescente;Ativo;;-19,893179;-44,049811;110;90
+VIA 040;2010;Controlador;BR-40;MG;527,200;Contagem;Principal;Decrescente;Ativo;;-19,904001;-44,048680;110;90
+VIA 040;2010;Controlador;BR-40;MG;529,100;Contagem;Principal;Crescente;Ativo;;-19,918180;-44,039531;110;90
+VIA 040;2010;Controlador;BR-40;MG;530,300;Contagem;Principal;Crescente;Ativo;;-19,919257;-44,030989;110;90
+VIA 040;2010;Controlador;BR-40;MG;531,220;Belo Horizonte;Principal;Decrescente;Ativo;;-19,922010;-44,022183;110;90
+VIA 040;2010;Controlador;BR-40;MG;531,800;Belo Horizonte;Principal;Crescente;Ativo;;-19,923580;-44,017749;110;90
+VIA 040;2010;Controlador;BR-40;MG;534,000;Belo Horizonte;Principal;Crescente;Ativo;;-19,934738;-44,007665;110;90
+VIA 040;2010;Controlador;BR-40;MG;534,250;Belo Horizonte;Principal;Decrescente;Ativo;;-19,936574;-44,007507;70;60
+VIA 040;2010;Controlador;BR-40;MG;535,170;Belo Horizonte;Principal;Crescente;Ativo;;-19,945329;-44,008193;80;60
+VIA 040;2010;Controlador;BR-40;MG;535,900;Belo Horizonte;Principal;Decrescente;Ativo;;-19,952277;-44,007077;70;60
+VIA 040;2010;Controlador;BR-40;MG;537,500;Belo Horizonte;Principal;Crescente;Ativo;;-19,963001;-43,999243;80;60
+VIA 040;2010;Controlador;BR-40;MG;538,200;Belo Horizonte;Principal;Crescente;Ativo;;-19,968113;-43,994641;70;60
+VIA 040;2010;Controlador;BR-40;MG;539,000;Belo Horizonte;Principal;Crescente;Ativo;;-19,973105;-43,989851;70;60
+VIA 040;2010;Controlador;BR-40;MG;540,500;Belo Horizonte;Principal;Decrescente;Ativo;;-19,983881;-43,981234;70;60
+VIA 040;2010;Controlador;BR-40;MG;540,500;Belo Horizonte;Principal;Crescente;Ativo;;-19,983673;-43,982115;80;60
+VIA 040;2010;Controlador;BR-40;MG;543,200;Belo Horizonte;Principal;Crescente;Ativo;;-19,995968;-43,961251;110;90
+VIA BAHIA;2003;Controlador;BR-324;BA;620,900;Salvador;Principal;Decrescente;Ativo;;-12,920777;-38,466445;80;80
+VIA BAHIA;2003;Controlador;BR-116;BA;673,800;Jequié;Principal;Crescente;Ativo;;-13,867066;-40,112872;60;60
+VIA BAHIA;2003;Controlador;BR-116;BA;817,580;Vitória da Conquista;Principal;Crescente;Ativo;;-14,822247;-40,816208;60;60
+VIA BAHIA;2003;Controlador;BR-324;BA;522,601;Feira de Santana;Principal;Crescente;Ativo;;-12,297527;-38,902333;60;60
+VIA BAHIA;2003;Controlador;BR-324;BA;523,529;Feira de Santana;Principal;Decrescente;Ativo;;-12,297527;-38,902333;60;60
+VIA BAHIA;2003;Controlador;BR-324;BA;526,451;Feira de Santana;Principal;Crescente;Ativo;;-12,318083;-38,875166;60;60
+VIA BAHIA;2003;Controlador;BR-324;BA;613,851;Salvador;Principal;Decrescente;Ativo;;-12,871388;-38,426805;100;100
+VIA BAHIA;2003;Redutor;BR-324;BA;613,771;Salvador;Principal;Crescente;Ativo;;-12,870888;-38,426805;100;100
+VIA BAHIA;2003;Controlador;BR-324;BA;536,551;Conceição do Jacuípe;Principal;Crescente;Ativo;;-12,375500;-38,805500;60;60
+VIA BAHIA;2003;Controlador;BR-324;BA;570,801;São Sebastião do Passé;Principal;Decrescente;Ativo;;-12,556944;-38,566166;100;100
+VIA BAHIA;2003;Controlador;BR-324;BA;584,401;Candeias;Principal;Crescente;Ativo;;-12,635750;-38,478222;100;100
+VIA BAHIA;2003;Controlador;BR-324;BA;611,401;Simões Filho;Principal;Crescente;Ativo;;-12,851250;-38,419138;100;100
+VIA BAHIA;2003;Controlador;BR-324;BA;527,021;Feira de Santana;Principal;Decrescente;Ativo;;-12,321055;-38,870861;60;60
+VIA BAHIA;2003;Controlador;BR-324;BA;526,996;Feira de Santana;Principal;Decrescente;Ativo;;-12,321055;-38,870861;60;60
+VIA BAHIA;2003;Controlador;BR-324;BA;622,020;Salvador;Principal;Crescente;Ativo;;-12,929444;-38,469583;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;622,021;Salvador;Principal;Crescente;Ativo;;-12,929444;-38,469583;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;625,500;Salvador;Principal;Crescente;Ativo;;-12,954695;-38,471467;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;625,500;Salvador;Principal;Crescente;Ativo;;-12,954695;-38,471467;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;625,501;Salvador;Principal;Crescente;Ativo;;-12,954695;-38,471467;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;625,501;Salvador;Principal;Crescente;Ativo;;-12,954695;-38,471467;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;619,526;Salvador;Principal;Decrescente;Ativo;;-12,910000;-38,458361;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;619,525;Salvador;Principal;Decrescente;Ativo;;-12,910000;-38,458361;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;619,706;Salvador;Principal;Crescente;Ativo;;-12,911833;-38,459222;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;619,705;Salvador;Principal;Crescente;Ativo;;-12,911833;-38,459222;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;623,973;Salvador;Principal;Crescente;Ativo;;-12,893398;-38,447182;80;80
+VIA BAHIA;2003;Controlador;BR-324;BA;623,972;Salvador;Principal;Crescente;Ativo;;-12,893398;-38,447182;80;80
+VIA BAHIA;2003;Controlador;BR-116;BA;673,900;Jequié;Principal;Crescente;Ativo;;-13,867111;-40,112888;60;60
+VIA BAHIA;2003;Controlador;BR-116;BA;909,981;Cândido Sales;Principal;Decrescente;Ativo;;-15,515277;-41,238138;40;40
+VIA BAHIA;2003;Controlador;BR-116;BA;909,700;Cândido Sales;Principal;Crescente;Ativo;;-15,512388;-41,236805;40;40
+VIA BAHIA;2003;Controlador;BR-116;BA;828,221;Vitória da Conquista;Principal;Crescente;Ativo;;-14,895388;-40,865250;40;40
+VIA BAHIA;2003;Controlador;BR-116;BA;818,996;Vitória da Conquista;Principal;Decrescente;Ativo;;-14,828666;-40,828111;60;60
+VIA BAHIA;2003;Controlador;BR-116;BA;818,995;Vitória da Conquista;Principal;Crescente;Ativo;;-14,828666;-40,828111;60;60
+VIA COSTEIRA;2020;Controlador;BR-101;SC;259,700;Paulo Lopes;Principal;Crescente;Ativo;;-28,020139;-48,698833;80;80
+VIA COSTEIRA;2020;Controlador;BR-101;SC;264,600;Garopaba;Principal;Decrescente;Ativo;;-28,059667;-48,716944;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;255,600;Paulo Lopes;Principal;Decrescente;Ativo;;-27,990306;-48,680028;80;80
+VIA COSTEIRA;2020;Controlador;BR-101;SC;252,400;Paulo Lopes;Principal;Decrescente;Ativo;;-27,961722;-48,679278;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;275,900;Imbituba;Principal;Crescente;Ativo;;-28,157222;-48,692972;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;277,300;Imbituba;Principal;Crescente;Ativo;;-28,170194;-48,694306;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;287,100;Imbituba;Principal;Crescente;Ativo;;-28,257278;-48,704083;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;277,300;Imbituba;Principal;Decrescente;Ativo;;-28,170194;-48,694306;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;304,000;Laguna;Principal;Decrescente;Ativo;;-28,388028;-48,774389;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;289,500;Imbituba;Principal;Decrescente;Ativo;;-28,278111;-48,700250;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;334,700;Tubarão;Principal;Crescente;Ativo;;-28,473194;-49,024667;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;334,900;Tubarão;Principal;Decrescente;Ativo;;-28,474528;-49,026389;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;325,400;Capivari de Baixo;Principal;Decrescente;Ativo;;-28,428611;-48,948917;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;324,900;Capivari de Baixo;Principal;Decrescente;Ativo;;-28,426083;-48,944472;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;318,400;Pescaria Brava;Principal;Decrescente;Ativo;;-28,428306;-48,881194;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;360,600;Sangão;Principal;Crescente;Ativo;;-28,669472;-49,120139;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;367,500;Sangão;Principal;Decrescente;Ativo;;-28,697694;-49,181528;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;363,400;Sangão;Principal;Crescente;Ativo;;-28,681222;-49,144361;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;361,900;Sangão;Principal;Decrescente;Ativo;;-28,676472;-49,130083;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;252,000;Paulo Lopes;Principal;Crescente;Ativo;;-27,958250;-48,678000;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;269,032;Imbituba;Principal;Decrescente;Ativo;;-28,097500;-48,705667;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;324,000;Pescaria Brava;Principal;Crescente;Ativo;;-28,424583;-48,935806;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;336,800;Tubarão;Principal;Decrescente;Ativo;;-28,486889;-49,038056;80;80
+VIA COSTEIRA;2020;Controlador;BR-101;SC;347,280;Jaguaruna;Principal;Crescente;Ativo;;-28,577374;-49,052481;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;347,840;Jaguaruna;Principal;Decrescente;Ativo;;-28,582194;-49,050361;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;355,300;Sangão;Principal;Crescente;Ativo;;-28,630889;-49,089667;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;371,900;Içara;Principal;Decrescente;Ativo;;-28,714556;-49,221417;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;373,000;Içara;Principal;Crescente;Ativo;;-28,717139;-49,232194;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;387,700;Içara;Principal;Decrescente;Ativo;;-28,793556;-49,351972;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;391,940;Criciúma;Principal;Crescente;Ativo;;-28,813111;-49,389139;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;400,700;Maracajá;Principal;Crescente;Ativo;;-28,869556;-49,450889;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;407,500;Araranguá;Principal;Decrescente;Ativo;;-28,920083;-49,490417;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;410,800;Araranguá;Principal;Crescente;Ativo;;-28,934750;-49,518167;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;411,000;Araranguá;Principal;Decrescente;Ativo;;-28,936222;-49,519306;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;412,200;Araranguá;Principal;Crescente;Ativo;;-28,944000;-49,527806;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;412,200;Araranguá;Principal;Decrescente;Ativo;;-28,944000;-49,527806;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;416,000;Araranguá;Principal;Crescente;Ativo;;-28,972333;-49,528861;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;416,000;Araranguá;Principal;Decrescente;Ativo;;-28,972333;-49,528861;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;432,500;Sombrio;Principal;Crescente;Ativo;;-29,084694;-49,630556;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;432,500;Sombrio;Principal;Decrescente;Ativo;;-29,084694;-49,630556;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;445,600;Santa Rosa do Sul;Principal;Crescente;Ativo;;-29,148556;-49,724806;110;90
+VIA COSTEIRA;2020;Controlador;BR-101;SC;445,600;Santa Rosa do Sul;Principal;Decrescente;Ativo;;-29,148556;-49,724806;110;90
+VIA SUL;2019;Controlador;BR-290;RS;10,000;Osório;Principal;Crescente;Ativo;;-29,891524;-50,374100;110;90
+VIA SUL;2019;Controlador;BR-290;RS;10,001;Osório;Principal;Crescente;Ativo;;-29,891572;-50,374095;110;90
+VIA SUL;2019;Controlador;BR-290;RS;31,000;Santo Antônio da Patrulha;Principal;Crescente;Ativo;;-29,884016;-50,565478;110;90
+VIA SUL;2019;Controlador;BR-290;RS;31,001;Santo Antônio da Patrulha;Principal;Crescente;Ativo;;-29,884067;-50,565498;110;90
+VIA SUL;2019;Controlador;BR-290;RS;70,900;Gravataí;Principal;Crescente;Ativo;;-29,951371;-50,965540;110;90
+VIA SUL;2019;Controlador;BR-290;RS;70,901;Gravataí;Principal;Crescente;Ativo;;-29,951409;-50,965520;110;90
+VIA SUL;2019;Controlador;BR-290;RS;91,000;Porto Alegre;Principal;Crescente;Ativo;;-29,968781;-51,167917;100;80
+VIA SUL;2019;Controlador;BR-290;RS;92,500;Porto Alegre;Principal;Decrescente;Ativo;;-29,971188;-51,182885;100;90
+VIA SUL;2019;Controlador;BR-448;RS;4,100;Esteio;Principal;Crescente;Ativo;;-29,845924;-51,203898;100;80
+VIA SUL;2019;Controlador;BR-448;RS;4,101;Esteio;Principal;Crescente;Ativo;;-29,846137;-51,203835;100;80
+VIA SUL;2019;Controlador;BR-386;RS;415,126;Montenegro;Principal;Decrescente;Ativo;;-29,818095;-51,470924;100;80
+VIA SUL;2019;Controlador;BR-386;RS;415,127;Montenegro;Principal;Decrescente;Ativo;;-29,817980;-51,470985;100;80
+VIA SUL;2019;Controlador;BR-101;RS;57,600;Maquiné;Principal;Crescente;Ativo;;-29,662472;-50,133248;100;80
+VIA SUL;2019;Controlador;BR-101;RS;71,800;Osório;Principal;Crescente;Ativo;;-29,761297;-50,217864;100;80
+VIA SUL;2019;Redutor;BR-101;RS;86,200;Osório;Principal;Crescente;Ativo;;-29,879663;-50,261308;80;80
+VIA SUL;2019;Controlador;BR-101;RS;4,700;Torres;Principal;Crescente;Ativo;;-29,337014;-49,785164;100;80
+VIA SUL;2019;Controlador;BR-101;RS;15,500;Dom Pedro de Alcântara;Principal;Crescente;Ativo;;-29,410162;-49,857806;100;80
+VIA SUL;2019;Controlador;BR-386;RS;443,000;Canoas;Principal;Crescente;Ativo;;-29,889403;-51,212150;100;80
+VIA SUL;2019;Redutor;BR-386;RS;434,600;Nova Santa Rita;Principal;Crescente;Ativo;;-29,846361;-51,276471;60;60
+VIA SUL;2019;Controlador;BR-386;RS;405,300;Montenegro;Principal;Decrescente;Ativo;;-29,780227;-51,552887;100;80
+VIA SUL;2019;Redutor;BR-386;RS;388,000;Triunfo;Principal;Crescente;Ativo;;-29,695129;-51,693235;60;60
+VIA SUL;2019;Controlador;BR-386;RS;367,400;Fazenda Vilanova;Principal;Crescente;Ativo;;-29,581164;-51,841074;100;80
+VIA SUL;2019;Controlador;BR-386;RS;305,000;Pouso Novo;Principal;Crescente;Ativo;;-29,189548;-52,188429;60;80
+VIA SUL;2019;Redutor;BR-386;RS;270,800;Fontoura Xavier;Principal;Decrescente;Ativo;;-28,978289;-52,367937;60;60
+VIA SUL;2019;Controlador;BR-386;RS;245,200;Soledade;Principal;Decrescente;Ativo;;-28,803798;-52,507508;60;60

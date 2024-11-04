@@ -120,3 +120,8 @@ Legenda:
 - Pontos vermelhos- Vitimas fatais
 
 ![image](https://github.com/user-attachments/assets/550dafb3-a398-4fc4-b990-38e7f74eb3b5)
+
+
+
+# Conclusão
+Este projeto visa contribuir para uma maior compreensão dos fatores e padrões que influenciam a ocorrência de acidentes nas rodovias federais brasileiras. Com análises e visualizações, espero fornecer insights valiosos para a PRF e outros órgãos de segurança, ajudando a tomar decisões informadas e salvar vidas.
